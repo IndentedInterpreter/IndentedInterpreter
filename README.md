@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IndentedInterpreter
 - I’m interested in ... Python
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ... yes
+- 📫 How to reach me ... no
 
 <!---
 IndentedInterpreter/IndentedInterpreter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
